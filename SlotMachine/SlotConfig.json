@@ -1,0 +1,166 @@
+﻿{
+	"slots": [
+		[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ],
+		[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ],
+		[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ],
+		[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ],
+		[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 ]
+	],
+	"minTurnCount": 50,
+	"maxTurnCount": 200,
+	"winRules": [
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 2
+				},
+				{
+					"count": 4,
+					"koef": 11
+				},
+				{
+					"count": 5,
+					"koef": 20
+				}
+			],
+			"value": 1
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 3
+				},
+				{
+					"count": 4,
+					"koef": 12
+				},
+				{
+					"count": 5,
+					"koef": 21
+				}
+			],
+			"value": 2
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 4
+				},
+				{
+					"count": 4,
+					"koef": 13
+				},
+				{
+					"count": 5,
+					"koef": 22
+				}
+			],
+			"value": 3
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 5
+				},
+				{
+					"count": 4,
+					"koef": 14
+				},
+				{
+					"count": 5,
+					"koef": 23
+				}
+			],
+			"value": 4
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 6
+				},
+				{
+					"count": 4,
+					"koef": 15
+				},
+				{
+					"count": 5,
+					"koef": 24
+				}
+			],
+			"value": 5
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 7
+				},
+				{
+					"count": 4,
+					"koef": 16
+				},
+				{
+					"count": 5,
+					"koef": 25
+				}
+			],
+			"value": 6
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 8
+				},
+				{
+					"count": 4,
+					"koef": 17
+				},
+				{
+					"count": 5,
+					"koef": 26
+				}
+			],
+			"value": 7
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 9
+				},
+				{
+					"count": 4,
+					"koef": 18
+				},
+				{
+					"count": 5,
+					"koef": 27
+				}
+			],
+			"value": 8
+		},
+		{
+			"countKoef": [
+				{
+					"count": 3,
+					"koef": 10
+				},
+				{
+					"count": 4,
+					"koef": 19
+				},
+				{
+					"count": 5,
+					"koef": 28
+				}
+			],
+			"value": 9
+		}
+	]
+}
